@@ -3,9 +3,6 @@
 # ABReviewReminder
 `ABReviewReminder` is a utility written in Swift 2.0 that reminds the iPhone and iPad app users (iOS 8.0 or later) to review your app. The code is released under the MIT, so feel free to modify and share your changes with the world. 
 
-#### Screenshots:
-
-
 ## Usage
 The easiest way to start using `ABReviewReminder` is to start the session providing your appId provided by Apple (1), and calling ABReviewReminder.appLaunched() (2) at the end of your app delegate's `application:didFinishLaunchingWithOptions:` method. 
 
