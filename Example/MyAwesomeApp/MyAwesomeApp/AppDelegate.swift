@@ -44,20 +44,20 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         //option 1
         /*
-        ABReviewReminder.startSession("994829561")
+        ABReviewReminder.startSession("12345678")
         ABReviewReminder.addAlertAction(customAlertAction, atIndex: 1)
         ABReviewReminder.appLaunched()
         */
         
         //option 2
         /*
-        ABReviewReminder.startSession("994829561", withOptions: options)
+        ABReviewReminder.startSession("12345678", withOptions: options)
         ABReviewReminder.addAlertAction(customAlertAction, atIndex: 1)
         ABReviewReminder.appLaunched()
         */
         
         //option 3
-        ABReviewReminder.startSession("994829561", withOptions: options, strings: strings)
+        ABReviewReminder.startSession("12345678", withOptions: options, strings: strings)
         ABReviewReminder.addAlertAction(customAlertAction, atIndex: 1)
         ABReviewReminder.appLaunched()
         
