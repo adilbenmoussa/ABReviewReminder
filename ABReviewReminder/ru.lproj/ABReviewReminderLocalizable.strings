@@ -1,0 +1,12 @@
+/* 
+  ABReviewReminderLocalizable.strings
+  ABReviewReminder
+
+  Created by A Ben Moussa on 11/19/15.
+  Copyright © 2015 Adil Ben Moussa. All rights reserved.
+*/
+
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Dacă îți place %@, acordă-i o notă te rog, nu durează mult. Mulțumim pentru susținere!";
+"Rate %@" = "Acordă notă pentru %@";
+"No, Thanks" = "Nu, mulțumesc";
+"Remind me later" = "Adu-mi aminte mai târziu";

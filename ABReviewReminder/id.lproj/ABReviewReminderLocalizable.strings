@@ -1,0 +1,12 @@
+/* 
+  ABReviewReminderLocalizable.strings
+  ABReviewReminder
+
+  Created by A Ben Moussa on 11/19/15.
+  Copyright © 2015 Adil Ben Moussa. All rights reserved.
+*/
+
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Jika anda menyukai %@, maukah anda memberikan rating kepada aplikasi ini? Rating hanya memakan waktu kurang dari 1 menit. Terimakasih untuk dukungan anda!";
+"Rate %@" = "Rating %@";
+"No, Thanks" = "Tidak, terimakasih";
+"Remind me later" = "Silakan ingatkan saya lagi";
