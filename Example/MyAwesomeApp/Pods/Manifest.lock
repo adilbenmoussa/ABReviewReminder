@@ -1,0 +1,10 @@
+PODS:
+  - ABReviewReminder (1.0)
+
+DEPENDENCIES:
+  - ABReviewReminder (~> 1.0)
+
+SPEC CHECKSUMS:
+  ABReviewReminder: e48edf611527cd407d8ae08427a5b32136555999
+
+COCOAPODS: 0.38.2

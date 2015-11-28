@@ -1,12 +1,7 @@
-  <img src="https://raw.githubusercontent.com/adilbenmoussa/ABReviewReminder/master/Images/swift-logo.jpg" width="400">
+  <img src="https://raw.githubusercontent.com/adilbenmoussa/ABCircularProgressView/master/Images/swift-logo.jpg" width="400">
   
 # ABReviewReminder
-[![Supported Platforms](https://cocoapod-badges.herokuapp.com/p/ABReviewReminder/badge.svg)](http://cocoadocs.org/docsets/ABReviewReminder) ![Version](https://cocoapod-badges.herokuapp.com/v/ABReviewReminder/badge.svg)
-
 `ABReviewReminder` is a utility written in Swift 2.0 that reminds the iPhone and iPad app users (iOS 8.0 or later) to review your app. The code is released under the MIT, so feel free to modify and share your changes with the world. 
-
-## Screenshot
-<img src="https://raw.githubusercontent.com/adilbenmoussa/ABReviewReminder/master/Images/screenshot1.png" width="400">
 
 ## Usage
 The easiest way to start using `ABReviewReminder` is to start the session providing your appId provided by Apple (1), and calling ABReviewReminder.appLaunched() (2) at the end of your app delegate's `application:didFinishLaunchingWithOptions:` method. 
@@ -142,10 +137,6 @@ pod 'ABReviewReminder', '~> 1.0'
 ```
 
 *(CocoaPods v0.36 or later required. See [this blog post](http://blog.cocoapods.org/Pod-Authors-Guide-to-CocoaPods-Frameworks/) for details.)*
-
-##ToDo list
-- [x] Project example (double click on `Example/MyAwesomeApp/MyAwesomeApp.xcworkspace`)
-- [x] Cocoapods support
 
 ##Requirements
 - iOS 8.0

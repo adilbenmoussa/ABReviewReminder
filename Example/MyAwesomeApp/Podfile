@@ -1,0 +1,4 @@
+use_frameworks! 
+
+pod 'ABReviewReminder', '~> 1.0'
+
