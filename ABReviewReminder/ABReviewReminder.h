@@ -26,7 +26,7 @@
  *
  * Created by Adil Ben Moussa on 11/28/2015.
  * https://github.com/adilbenmoussa
- * Copyright 2012 Arash Payan. All rights reserved.
+ * Copyright 2015 Adil Ben Moussa. All rights reserved.
  */
 
 
