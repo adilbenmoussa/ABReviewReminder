@@ -135,7 +135,7 @@ ABReviewReminder.appLaunched()
 
 Simply add the following lines to your `Podfile`:
 ```ruby
-# required by Cocoapods 0.36.0.rc.1 for Swift Pods
+# required by CocoaPods 0.36.0.rc.1 for Swift Pods
 use_frameworks! 
 
 pod 'ABReviewReminder', '~> 1.0'
@@ -145,7 +145,7 @@ pod 'ABReviewReminder', '~> 1.0'
 
 ##ToDo list
 - [x] Project example (double click on `Example/MyAwesomeApp/MyAwesomeApp.xcworkspace`)
-- [x] Cocoapods support
+- [x] CocoaPods support
 
 ##Requirements
 - iOS 8.0
